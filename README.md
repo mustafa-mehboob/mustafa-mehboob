@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafa-mehboob
-- 🌱 I’m currently learning Web 3.0 and Metaverse
+- 🌱 Full Stack Developer
 - 📫 How to reach me mustafamehboob996@gmail.com
 
 <!---
