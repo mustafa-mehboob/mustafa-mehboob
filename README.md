@@ -42,8 +42,7 @@ mustafamehboob996@gmail.com 📫
 
 ***
 <!-- User stats Iamges -->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-mehboob&show_icons=true&locale=en&layout=compact" alt="mustafa-mehboob" width="500" height="350"/> 
-<img  src="https://github-readme-stats.vercel.app/api?username=mustafa-mehboob&show_icons=true&locale=en" alt="mustafa-mehboob" width="500" height="350"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-mehboob&show_icons=true&locale=en&layout=compact" alt="mustafa-mehboob" width="500" height="350"/> <img  src="https://github-readme-stats.vercel.app/api?username=mustafa-mehboob&show_icons=true&locale=en" alt="mustafa-mehboob" width="500" height="350"/>
 
 <!---
 <img  src="https://github-readme-stats.vercel.app/api?username=mustafa-mehboob&show_icons=true&locale=en" alt="mustafa-mehboob" width="500" height="350"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-mehboob&" alt="mustafa-mehboob" width="900" />
