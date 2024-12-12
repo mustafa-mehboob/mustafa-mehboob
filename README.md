@@ -7,7 +7,7 @@
 <!-- <h1 align="center"> (Joseph) </h1> --><!-- Nicknamne Header -->
 
 ***
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 👋 Hi there! I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I specialize in building responsive, user-friendly web applications and APIs that deliver seamless experiences.
