@@ -10,20 +10,21 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
-👋 Hi there! I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I specialize in building responsive, user-friendly web applications and APIs that deliver seamless experiences.
+Frontend Developer specialising in React.js, Next.js and modern web technologies.
 
 🔧 Skills:
 
-- Front-End: HTML, CSS, JavaScript, React, Angular
+- Front-End: React.js, Next.js, TypeScript, Tailwind CSS, Webflow, Shopify, WordPress
 - Back-End: Node.js, Express, Python, Django, Ruby on Rails
 - Databases: MongoDB, PostgreSQL, MySQL
-- DevOps: Docker, CI/CD, AWS, Git
 - Tools: GitHub, Visual Studio Code, Postman**.
 
 🌱 I’m constantly learning and exploring new technologies to enhance my skill set and deliver the best solutions for my projects.
 
 💬 Let's connect! Feel free to reach out if you want to collaborate on a project, share ideas, or just chat about tech.
 ### Connect with me:
+
+https://ghulamdev.com
 mustafamehboob996@gmail.com 📫
 
 <hr>
