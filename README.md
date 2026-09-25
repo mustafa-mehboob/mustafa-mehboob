@@ -25,6 +25,7 @@ Frontend Developer specialising in React.js, Next.js and modern web technologies
 ### Connect with me:
 
 https://ghulamdev.com
+<br />
 mustafamehboob996@gmail.com 📫
 
 <hr>
